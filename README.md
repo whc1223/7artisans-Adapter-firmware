@@ -22,7 +22,7 @@ v2.0
 V2.1
 优化兼容性+2
 
-公告：由于品牌商7artisans一直拖欠货款，此款转接环固件将不再维护。
+
 Due to the brand owner’s ongoing failure to settle outstanding payments, the firmware for this lens adapter will no longer be maintained.
 
 
